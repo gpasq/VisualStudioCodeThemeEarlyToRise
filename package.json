@@ -1,0 +1,22 @@
+{
+    "name": "theme-earlytorise",
+    "displayName": "EarlyToRise",
+    "description": "Blue and italic mods to Tomorrow",
+    "version": "0.0.1",
+    "publisher": "PasqNet",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Early To Rise",
+                "uiTheme": "vs",
+                "path": "./themes/EarlyToRise.tmTheme"
+            }
+        ]
+    }
+}
