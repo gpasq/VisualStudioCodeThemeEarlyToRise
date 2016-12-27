@@ -2,7 +2,7 @@
     "name": "theme-earlytorise",
     "displayName": "EarlyToRise",
     "description": "Blue and italic mods to Tomorrow",
-    "version": "0.0.2",
+    "version": "0.0.5",
     "publisher": "PasqNet",
     "engines": {
         "vscode": "^1.0.0"
