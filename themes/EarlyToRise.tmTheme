@@ -7,11 +7,11 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Martin Kühl</string>
+	<string>Greg Pasquariello</string>
 	<key>comment</key>
-	<string>Based on the Quiet Light theme for Espresso by Ian Beck.</string>
+	<string>Based on a theme by Martin Kühl.</string>
 	<key>name</key>
-	<string>Quiet Light</string>
+	<string>EarlyToRise</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -48,9 +48,9 @@
 				<key>currentFindMatchHighlight</key>
 				<string>#A8AC94</string>
 				<key>wordHighlight</key>
-				<string>#575757</string>
+				<string>#ccffdd</string>
 				<key>wordHighlightStrong</key>
-				<string>#0E639C</string>
+				<string>#E1E5EA</string>
 				<key>activeLinkForeground</key>
 				<string>#0000FF</string>
 				<key>gotoDefinitionLinkForeground</key>
@@ -192,18 +192,18 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#753E94</string>
+				<string>#7A3E9D</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>Classes</string>
 			<key>scope</key>
-			<string>entity.name.type, entity.other.inherited-class, support.class</string>
+			<string>entity.name.type, entity.name.type.class, entity.other.inherited-class, support.class, support.type</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#000000</string>
+				<string>#C99e00</string>
 				<key>fontStyle</key>
 				<string> italic</string>
 			</dict>
@@ -247,7 +247,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#008800</string>
+				<string>#0095FF</string>
 				<key>fontStyle</key>
 				<string> italic</string>
 			</dict>
@@ -273,7 +273,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#4271AE</string>
+				<string>#0095FF</string>
 				<key>fontStyle</key>
 				<string> italic</string>
 			</dict>
@@ -339,7 +339,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#91B3E0</string>
+				<string>#148500</string>
 			</dict>
 		</dict>
 		<dict>
@@ -350,7 +350,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#4B83CD</string>
+				<string>#148500</string>
 			</dict>
 		</dict>
 		<dict>
@@ -361,9 +361,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic</string>
+				<string>normal</string>
 				<key>foreground</key>
-				<string>#91B3E0</string>
+				<string>#0C5200</string>
 			</dict>
 		</dict>
 		<dict>
@@ -414,7 +414,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#448C27</string>
+				<string>#0E639C</string>
 			</dict>
 		</dict>
 		<dict>
@@ -673,6 +673,6 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.light.quiet_light</string>
+	<string>theme.light.early_to_rise</string>
 </dict>
 </plist>
